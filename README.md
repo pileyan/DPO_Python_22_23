@@ -9,10 +9,10 @@
 ## Блок 1. Python
 
 1 занятие (07.09.2022)
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_python_2022/tree/master/lect01_git_basic_types)
+[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_22_23/tree/master/lect01_git_basic_types)
 
 2 занятие (10.09.2022)
-[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_python_2022/tree/master/lect02_complex_types_if_else)
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_22_23/tree/master/lect02_complex_types_if_else)
 
 
 ## Формы контроля
@@ -27,7 +27,7 @@
 Если опоздание более двух недель, задание не проверяется.
 
 ## Ведомость с оценками
-Ткнуть [сюда](https://docs.google.com/spreadsheets/d/1Nhw_hfSEMv5_F_SwBVQEr9OidhxlF6OA8RVsS--Vnsc/edit?usp=sharing)
+Ткнуть [сюда](https://docs.google.com/spreadsheets/d/1sjvRIO2eYepZAD_DyGvDslfbEj8PDcBw0zncHlvtu94/edit?usp=sharing)
 
 ## Куда сдавать задания и в какие сроки
 ### ДЗ нужно сдавать в виде .ipynb-ноутбуков с решениями. Название должно быть ФамилияИнициалы.ipynb
@@ -39,7 +39,7 @@
 Если файл .ipynb сохраняется как текст или с лишним расширением (например, .txt), то нужно выбрать при сохранении тип файла все файлы, 
 а не текст, или после сохранения убрать вручную расширение, переименовав файл.
 
-Подробнее про работу с GitHub через клиента можно прочитать [здесь](https://github.com/pileyan/DPO_Python_2021/blob/main/lect01_git_basic_types/2021_DPO_1_0_git.ipynb)
+Подробнее про работу с GitHub через клиента можно прочитать [здесь](https://github.com/pileyan/DPO_Python_22_23/blob/master/lect01_git_basic_types/DPO_1_0_git.ipynb)
 
 А еще очень рекомендую посмотреть [вот эту ссылку](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 Здесь в одной статье рассказана бОльшая часть того, что нужно знать про Git.
