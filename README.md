@@ -6,6 +6,8 @@
 ## Общая информация:
 Каждому занятию соответствует свой порядковый номер. Всего занятий 18 (12 - программирование на Python, 6 - Python для анализа данных). В папке каждого занятия вы найдете блокноты с пройденным на семинаре материалом и иногда ссылки на дополнительные материалы.
 
+Где можно и нужно решать задачи: https://leetcode.com/problemset/all/
+
 ## Блок 1. Python
 
 1 занятие (07.09.2022)
@@ -30,6 +32,8 @@
 Ткнуть [сюда](https://docs.google.com/spreadsheets/d/1sjvRIO2eYepZAD_DyGvDslfbEj8PDcBw0zncHlvtu94/edit?usp=sharing)
 
 ## Куда сдавать задания и в какие сроки
+
+[HW1](https://github.com/pileyan/DPO_Python_22_23/blob/master/Homework/hw1.ipynb) сдавать [сюда](https://www.dropbox.com/request/olxjWvLvjYF4g5L2JBK3) до 18.09.2022 включительно
 ### ДЗ нужно сдавать в виде .ipynb-ноутбуков с решениями. Название должно быть ФамилияИнициалы.ipynb
 
 
