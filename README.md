@@ -34,6 +34,8 @@
 ## Куда сдавать задания и в какие сроки
 
 [HW1](https://github.com/pileyan/DPO_Python_22_23/blob/master/Homework/hw1.ipynb) сдавать [сюда](https://www.dropbox.com/request/olxjWvLvjYF4g5L2JBK3) до 18.09.2022 включительно
+
+[HW2-3] сдавать [сюда](https://www.dropbox.com/request/8dnbscuXQR3YmHH5SHBD) до 02.10.22 включительно
 ### ДЗ нужно сдавать в виде .ipynb-ноутбуков с решениями. Название должно быть ФамилияИнициалы.ipynb
 
 
